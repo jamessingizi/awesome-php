@@ -792,6 +792,7 @@ Libraries to help manage database schemas and migrations.
 * [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
 * [PhpStorm](http://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 * [VS Code](https://code.visualstudio.com/) - An open source code editor.
+* [Sublime Text 3](https://www.sublimetext.com/download/) - A sophisticated text editor for code, markup and prose
 
 ### Web Applications
 *Web-based applications and tools.*
